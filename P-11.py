@@ -1,7 +1,9 @@
 """LARGEST PRODUCT IN A GRID Problem-11
 First the grid is read.
 Then all the directions are taken.
-Finally, for each point the product is tested in all directions. """
+Finally, for each point the product is tested in all directions.
+
+"""
 
 nb = 4
 
